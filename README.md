@@ -7,7 +7,8 @@
 
 ### Vídeo ensinando detalhadamente como criar este projeto:
 
-<a href="https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" rel="noreferrer noopener nofollow" > />
+<a href=https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" rel="noreferrer noopener nofollow" > />
+
 - Créditos a CrisTech
 
 
