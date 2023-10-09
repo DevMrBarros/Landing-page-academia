@@ -5,8 +5,8 @@
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### Vídeo ensinando detalhadamente como criar este projeto:
-https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s
+### Vídeo no canal do Youtube da CrisTech ensinando detalhadamente como criar este projeto:
+- https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s
 
 - Créditos a CrisTech
 
