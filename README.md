@@ -6,9 +6,8 @@
 </div>
 
 ### Vídeo ensinando detalhadamente como criar este projeto:
-<div style="display: block">
-    <a href=https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" rel="nofollow" />
-</div>
+
+(https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s)
 
 - Créditos a CrisTech
 
