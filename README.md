@@ -6,7 +6,7 @@
 </div>
 
 ### Vídeo ensinando detalhadamente como criar este projeto:
-<div>
+<div style="display: block">
     <a href=https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" rel="nofollow" />
 </div>
 
