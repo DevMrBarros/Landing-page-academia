@@ -6,10 +6,8 @@
 </div>
 
 ### Vídeo ensinando detalhadamente como criar este projeto:
-<div>
-    <a href="https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" />
-</div>
 
+<a href="https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" />
 
 - Créditos a CrisTech
 
