@@ -6,7 +6,7 @@
 </div>
 
 ### Vídeo no canal do Youtube da CrisTech ensinando detalhadamente como criar este projeto:
-[Youtube](https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s){:target="_blank"}
+[Youtube](https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ){:target="_blank"}
 
 
 - Créditos a CrisTech
