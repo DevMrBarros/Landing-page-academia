@@ -6,11 +6,10 @@
 </div>
 
 ### Vídeo no canal do Youtube da CrisTech ensinando detalhadamente como criar este projeto:
-[Youtube](https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ){:target="_blank"}
 
+https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ
 
 - Créditos a CrisTech
-
 
 ### Este projeto para estudo é a criação de uma landingpage ficticia para uma academia.
 
