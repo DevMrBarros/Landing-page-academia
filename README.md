@@ -6,9 +6,12 @@
 </div>
 
 ### Vídeo ensinando detalhadamente como criar este projeto:
-https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s
+<div>
+    <a href="https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s" target="_blank" />
+</div>
 
-- Créditos a ChrisTech
+
+- Créditos a CrisTech
 
 
 ### Este projeto para estudo é a criação de uma landingpage ficticia para uma academia.
