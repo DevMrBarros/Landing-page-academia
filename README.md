@@ -5,6 +5,10 @@
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+## Link da LandingPage
+
+https://landing-page-academia-two.vercel.app/
+
 ### Vídeo no canal do Youtube da CrisTech ensinando detalhadamente como criar este projeto:
 
 https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ
